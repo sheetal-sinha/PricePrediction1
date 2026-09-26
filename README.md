@@ -1,6 +1,6 @@
 # 📊 Price Prediction Machine Learning Model (`PricePrediction1`)
 
-> A data science and machine learning repository for price forecasting, feature engineering, regression analysis, and performance evaluation built with Python, Pandas, and Scikit-Learn.
+> A data of science and machine learning repository for price forecasting, feature engineering, regression analysis, and performance evaluation built with Python, Pandas, and Scikit-Learn.
 
 [![Repository: PricePrediction1](https://img.shields.io/badge/GitHub-PricePrediction1-blue.svg)](https://github.com/sheetal-sinha/PricePrediction1)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
